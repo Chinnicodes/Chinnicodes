@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ###  Connect with Me
 -  GitHub:(GitHub) (https://github.com/Chinnicodes)
--LinkedIn:(inkedin)(https://www.linkedin.com/in/ntrisha16)
+-  LinkedIn:(Neerukonda Trisha)(https://www.linkedin.com/in/ntrisha16)
 -  Email: (trishaneerukonda16@gmail.com)
