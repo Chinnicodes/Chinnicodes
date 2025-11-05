@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - Tools: Git, VS Code  
 
 ### 📫 Connect with Me
-- 💬 GitHub: [@Chinnicodes](https://github.com/Chinnicodes)
-- 💼 LinkedIn:
+-  GitHub: [@Chinnicodes](https://github.com/Chinnicodes)
+-  LinkedIn:
 [Neerukonda Trisha](https://www.linkedin.com/in/ntrisha16)
-- 📧 Email: 
+-  Email: 
 (trishaneerukonda16@gmail.com)
