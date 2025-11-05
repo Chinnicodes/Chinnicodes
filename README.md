@@ -7,16 +7,16 @@ Here are some ideas to get you started:
 
 --># 👋 Hi, I'm Trisha!
 
-### 🌱 About Me
-- 🎓 I recently graduated B.Tech in Hindu college of engineering and technology,guntur
-- 💻 Currently exploring web development   
-- ✨ I love solving problems
+###  About Me
+- I recently graduated B.Tech in Hindu college of engineering and technology,guntur
+- Currently exploring web development   
+- I love solving problems
 
-### 🚀 Skills
+### Skills
 - Languages: Python, C, HTML, CSS, MySQL
 - Tools: Git, VS Code  
 
-### 📫 Connect with Me
+###  Connect with Me
 -  GitHub: [@Chinnicodes](https://github.com/Chinnicodes)
 -  LinkedIn:
 [Neerukonda Trisha](https://www.linkedin.com/in/ntrisha16)
