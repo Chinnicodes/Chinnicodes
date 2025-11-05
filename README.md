@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with Me
 - 💬 GitHub: [@Chinnicodes](https://github.com/Chinnicodes)
+linked in :
+https://www.linkedin.com/in/ntrisha16
 
