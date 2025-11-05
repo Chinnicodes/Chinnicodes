@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
---># 👋 Hi, I'm Trisha!
+-->👋 Hi, I'm Trisha!
 
 ###  About Me
 - I recently graduated B.Tech in Hindu college of engineering and technology,guntur
