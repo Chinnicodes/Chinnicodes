@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 --># 👋 Hi, I'm Trisha!
 
 ### 🌱 About Me
-- 🎓 Student passionate about coding and learning new technologies  
+- 🎓 I recently graduated B.Tech in Hindu college of engineering and technology,guntur
 - 💻 Currently exploring web development   
 - ✨ I love solving problems
 
