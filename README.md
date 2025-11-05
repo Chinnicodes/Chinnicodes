@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 GitHub: [@Chinnicodes](https://github.com/Chinnicodes)
 - 💼 LinkedIn:
 [Neerukonda Trisha](https://www.linkedin.com/in/ntrisha16)
-
+📧 Email: trishaneerukonda16@gmail.com
