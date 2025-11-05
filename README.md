@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - I love solving problems
 
 ### Skills
-- Languages: Python, C, HTML, CSS, MySQL
+- Languages: Python, C, HTML, CSS, MySQL , Javascript 
 - Tools: Git, VS Code  
 
 ###  Connect with Me
