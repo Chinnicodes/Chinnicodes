@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - LinkedIn:
 [Neerukonda Trisha](https://www.linkedin.com/in/ntrisha16)
 - Email: [trishaneerukonda16@gmail.com](mailto:trishaneerukonda16@gmail.com)
-- portfolio:[Neerukonda Trisha] 
-(https://chinnicodes.github.io/trisha.github.io/)
+- portfolio:
+[NeerukondaTrisha](https://chinnicodes.github.io/trisha.github.io/)
