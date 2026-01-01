@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->👋 Hi, I'm Trisha!
 
 ###  About Me
-- Currently I am working as assistant professor in Hindu College of Engineering and Technology, guntur
+- Currently Serving as an Assistant professor in Hindu College of Engineering and Technology, guntur
 - I recently graduated B.Tech in Hindu college of engineering and technology,guntur
 - Currently exploring web development   
 - I love solving problems
